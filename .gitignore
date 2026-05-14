@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# WhatsApp sessions (sensitive)
+sessions/
+
+# Runtime data
+data/joined_groups.json
+data/chat_history.json
+data/wa-session.json
+data/profile_pics/
+
+# Large data files
+nama-session.json
+wa.json
+
+# Logs
+logs/

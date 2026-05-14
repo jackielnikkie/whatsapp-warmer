@@ -1,0 +1,20 @@
+# TARGET GROUPS
+# Tambahkan link grup WhatsApp di bawah ini (satu per baris)
+# Format: https://chat.whatsapp.com/KODE_INVITE
+
+# Contoh:
+# https://chat.whatsapp.com/Dl44I85P2ec8LjYsejXQhY
+# https://chat.whatsapp.com/AbCdEfGhIjKlMnOpQrStUvX
+
+# Tambahkan link grup kamu di bawah ini:
+
+
+
+
+
+https://chat.whatsapp.com/EbaVadegW3qEZuWyFymrv2?mode=gi_t
+https://chat.whatsapp.com/FfoiJItOqSFAhZ49HC0FCs
+https://chat.whatsapp.com/JU4FctnIbV2CoWxKDGSpBq
+https://chat.whatsapp.com/KQaEd7swM2fGBAZoEOa6Zi
+https://chat.whatsapp.com/HlHXX6NcpfX54J34itsR1A
+https://chat.whatsapp.com/EXjC3sRLCqwLi84cjNBfNF
